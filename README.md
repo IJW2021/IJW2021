@@ -1,16 +1,18 @@
 ### Hi there Welcome to my GitHub Repo 👋
-
-### 📚  Im Currenty Learning
+---
+### 📚  What Im Currenty Learning
 ![](https://img.shields.io/badge/Code-ARM%20Assembly-informational?style=flat&logoColor=white&color=5BA745)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=5BA745)
 ![](https://img.shields.io/badge/Platform-Apache%20Spark-informational?style=flat&logo=Apache%20Spark&logoColor=white&color=5BA745)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=5BA745)
 ![](https://img.shields.io/badge/Embedded%20Systems-Micro%20Python-informational?style=flat&logo=Raspberry%20PI&logoColor=white&color=5BA745)
+---
 ### 📚  My Interests 
 ![](https://img.shields.io/badge/Science-Data%20Science-informational?style=flat&logoColor=white&color=5BA745)
 ![](https://img.shields.io/badge/Technology-Big%20Data-informational?style=flat&logoColor=white&color=5BA745)
 ![](https://img.shields.io/badge/Technology-Reverse%20Engineering-informational?style=flat&logoColor=white&color=5BA745)
-### 🔧  Technologies & Tools I Know & Use
+---
+### 🔧  My Technology Stack
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-OSX-informational?style=flat&logo=Apple&logoColor=white&color=6aa6f8)
@@ -32,8 +34,8 @@
 ![](https://img.shields.io/badge/Tool-Sonarqube-informational?style=flat&logo=Sonarqube&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tool-Sentry-informational?style=flat&logo=Sentry&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tool-Redis-informational?style=flat&logo=Redis&logoColor=white&color=6aa6f8)
+---
 
-
-![Ians GitHub stats](https://github-readme-stats.vercel.app/api?username=IJW2021&count_private=true)
+![Ians GitHub stats](https://github-readme-stats.vercel.app/api?username=IJW2021&count_private=true&hide=stars&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IJW2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
