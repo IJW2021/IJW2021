@@ -32,3 +32,8 @@
 ![](https://img.shields.io/badge/Tool-Sonarqube-informational?style=flat&logo=Sonarqube&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tool-Sentry-informational?style=flat&logo=Sentry&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tool-Redis-informational?style=flat&logo=Redis&logoColor=white&color=6aa6f8)
+
+
+![Ians GitHub stats](https://github-readme-stats.vercel.app/api?username=IJW2021&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IJW2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
