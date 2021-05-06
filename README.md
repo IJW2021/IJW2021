@@ -1,4 +1,4 @@
-![](https://github.com/IJW2021/IJW2021/blob/main/Images/Sig3.png)
+![](https://github.com/IJW2021/IJW2021/blob/main/Images/sig3.png)
 ### Hi there Welcome to my GitHub Repo 👋
 ---
 ### 📚  What Im Currenty Learning
