@@ -1,6 +1,6 @@
 ![](https://github.com/IJW2021/IJW2021/blob/main/Images/sig3.png)
 
-A postgraduate student Solutions Architect and life-long learner
+A postgraduate student,Solutions Architect and life-long learner
 ### Hi there Im Welcome to my GitHub 👋
 
 ---
