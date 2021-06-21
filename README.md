@@ -1,5 +1,8 @@
 ![](https://github.com/IJW2021/IJW2021/blob/main/Images/sig3.png)
-### Hi there Welcome to my GitHub Repo 👋
+
+A postgraduate student Solutions Architect and life-long learner
+### Hi there Im Welcome to my GitHub 👋
+
 ---
 ### 📚  What Im Currenty Learning
 ![](https://img.shields.io/badge/Code-ARM%20Assembly-informational?style=flat&logoColor=white&color=5BA745)
