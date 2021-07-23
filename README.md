@@ -4,40 +4,34 @@ A postgraduate student,Solutions Architect and life-long learner
 ### Hi there Im Ian Welcome to my GitHub 👋
 
 ---
+
 ### 📚  What Im Currenty Learning
-![](https://img.shields.io/badge/Code-ARM%20Assembly-informational?style=flat&logoColor=white&color=5BA745)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=5BA745)
-![](https://img.shields.io/badge/Platform-Apache%20Spark-informational?style=flat&logo=Apache%20Spark&logoColor=white&color=5BA745)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=5BA745)
-![](https://img.shields.io/badge/Embedded%20Systems-Micro%20Python-informational?style=flat&logo=Raspberry%20PI&logoColor=white&color=5BA745)
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+
 ---
-### 📚  My Interests 
-![](https://img.shields.io/badge/Science-Data%20Science-informational?style=flat&logoColor=white&color=5BA745)
-![](https://img.shields.io/badge/Technology-Big%20Data-informational?style=flat&logoColor=white&color=5BA745)
-![](https://img.shields.io/badge/Technology-Reverse%20Engineering-informational?style=flat&logoColor=white&color=5BA745)
----
+
 ### 🔧  My Technology Stack
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-OSX-informational?style=flat&logo=Apple&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=Pycharm&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat&logo=Visual%20Studio&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat&logo=C%20Sharp&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Ada95-informational?style=flat&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=MYSQL&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Database-PostGreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=Gnu%20Bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=Zsh&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tool-Sonarqube-informational?style=flat&logo=Sonarqube&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tool-Sentry-informational?style=flat&logo=Sentry&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tool-Redis-informational?style=flat&logo=Redis&logoColor=white&color=6aa6f8)
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
+
 ---
 
 ![Ians GitHub stats](https://github-readme-stats.vercel.app/api?username=IJW2021&count_private=true&hide=stars&show_icons=true)
