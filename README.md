@@ -7,6 +7,10 @@ A postgraduate student,Solutions Architect and life-long learner
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ian-wolloff-556228210/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/IJW2012/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Ian.Wolloff@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=Flat&logo=twitter&logoColor=white)](https://Twitter.com/IanWolloff)
+[![Twitter](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=Flatlogo=microsoft-teams&logoColor=white)](https://teams.microsoft.com/l/chat/0/0?users=Ian.Wolloff@gmail.com)
+
+
 
 ---
 
