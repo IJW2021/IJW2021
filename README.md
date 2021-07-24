@@ -44,3 +44,4 @@ A postgraduate student,Solutions Architect and life-long learner
 ![Ians GitHub stats](https://github-readme-stats.vercel.app/api?username=IJW2021&count_private=true&hide=stars&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IJW2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://activity-graph.herokuapp.com/graph?username=IJW2021&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
