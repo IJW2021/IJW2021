@@ -2,7 +2,6 @@
 
 A postgraduate student,Solutions Architect and life-long learner
 ### Hi there Im Ian Welcome to my GitHub 👋
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/IJW2021)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ian-wolloff-556228210/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/IJW2012/)
@@ -10,10 +9,6 @@ A postgraduate student,Solutions Architect and life-long learner
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=Flat&logo=twitter&logoColor=white)](https://Twitter.com/IanWolloff)
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=Flatlogo=microsoft-teams&logoColor=white)](https://teams.microsoft.com/l/chat/0/0?users=Ian.Wolloff@gmail.com)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=Flat&logo=zoom&logoColor=white)](https://us04web.zoom.us/j/7182935500?pwd=WkNrZWdCeUdzTmFldUUrZ1U1cTFEdz09)
-
-
-
-
 
 ---
 
