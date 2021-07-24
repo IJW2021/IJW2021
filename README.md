@@ -51,5 +51,3 @@ A postgraduate student,Solutions Architect and life-long learner
 | Project Name                                                                               | Description                        | Technology               | 
 | :---:                                                                                      |    :----                           |  :-------                |
 | [☎️ Phone Book Database](https://github.com/IJW2021/UOE-Coursework/tree/main/MyPhoneBook)     | CourseWork Python App for UOE 2021 |  ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-blue?style=flat&logo=Flask&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=Docker&logoColor=white) ![Docker](https://img.shields.io/badge/-JSON-blue?style=flat&logo=JSON&logoColor=white)
-
- |
