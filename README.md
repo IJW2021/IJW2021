@@ -44,6 +44,8 @@ A postgraduate student,Solutions Architect and life-long learner
 
 ### 👨‍💻 Development Projects 
 
+Here you wil find some of the projects I have been working on 
+
 | Project Name                                                                               | Description                        | Technology               | Date  |
 | :---:                                                                                      |    :----                           |  :-------                | :---- |
 | [☎️ Phone Book Database](https://github.com/IJW2021/My-PhoneBook)     | CourseWork Python App for UOE 2021 |  ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-blue?style=flat&logo=Flask&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=Docker&logoColor=white) ![Docker](https://img.shields.io/badge/-JSON-blue?style=flat&logo=JSON&logoColor=white) | June 2021
