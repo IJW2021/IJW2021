@@ -41,13 +41,16 @@ A postgraduate student,Solutions Architect and life-long learner
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
 ---
 
+### 👨‍💻 Development Projects 
+
+| Project Name                                                                               | Description                        | Technology               | 
+| :---:                                                                                      |    :----                           |  :-------                |
+| [☎️ Phone Book Database](https://github.com/IJW2021/UOE-Coursework)     | CourseWork Python App for UOE 2021 |  ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-blue?style=flat&logo=Flask&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=Docker&logoColor=white) ![Docker](https://img.shields.io/badge/-JSON-blue?style=flat&logo=JSON&logoColor=white)
+
+### GitHub Stats 👾
+
 ![Ians GitHub stats](https://github-readme-stats.vercel.app/api?username=IJW2021&count_private=true&hide=stars&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IJW2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://activity-graph.herokuapp.com/graph?username=IJW2021&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
 
-### 👨‍💻 Projects
-
-| Project Name                                                                               | Description                        | Technology               | 
-| :---:                                                                                      |    :----                           |  :-------                |
-| [☎️ Phone Book Database](https://github.com/IJW2021/UOE-Coursework)     | CourseWork Python App for UOE 2021 |  ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-blue?style=flat&logo=Flask&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=Docker&logoColor=white) ![Docker](https://img.shields.io/badge/-JSON-blue?style=flat&logo=JSON&logoColor=white)
