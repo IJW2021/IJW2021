@@ -39,6 +39,7 @@ A postgraduate student,Solutions Architect and life-long learner
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
+
 ---
 
 ### 👨‍💻 Development Projects 
@@ -46,6 +47,8 @@ A postgraduate student,Solutions Architect and life-long learner
 | Project Name                                                                               | Description                        | Technology               | 
 | :---:                                                                                      |    :----                           |  :-------                |
 | [☎️ Phone Book Database](https://github.com/IJW2021/My-PhoneBook)     | CourseWork Python App for UOE 2021 |  ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-blue?style=flat&logo=Flask&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=Docker&logoColor=white) ![Docker](https://img.shields.io/badge/-JSON-blue?style=flat&logo=JSON&logoColor=white)
+
+---
 
 ### GitHub Stats 👾
 
