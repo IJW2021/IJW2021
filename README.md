@@ -57,9 +57,7 @@ Here you wil find some of the projects I have been working on
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Markdown   2 hrs           ████████████████████▓░░░░   83.06 % 
-HTML       17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Other      6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
