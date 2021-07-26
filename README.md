@@ -54,6 +54,15 @@ Here you wil find some of the projects I have been working on
 
 ### GitHub Stats 👾
 
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Markdown   2 hrs           ████████████████████▓░░░░   83.06 % 
+HTML       17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Other      6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+<!--END_SECTION:waka-->
+
 ![Ians GitHub stats](https://github-readme-stats.vercel.app/api?username=IJW2021&count_private=true&hide=stars&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IJW2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
