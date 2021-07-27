@@ -57,7 +57,10 @@ Here you wil find some of the projects I have been working on
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other      23 mins         ███████████░░░░░░░░░░░░░░   44.29 % 
+Markdown   14 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.21 % 
+Python     7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+SQL        6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 ```
 <!--END_SECTION:waka-->
 
