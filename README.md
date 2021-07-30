@@ -1,4 +1,4 @@
-
+[![Logo](Images/Logo2.png)
 
 A postgraduate student,Solutions Architect and life-long learner
 ### Hi there Im Ian Welcome to my GitHub 👋
