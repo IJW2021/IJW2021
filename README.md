@@ -1,4 +1,4 @@
-![](https://github.com/IJW2021/IJW2021/blob/main/Images/Logo.png)<code><img width="20%" src="https://www.therelicans.com/images/4ekvGnVnE28x2abouMK5DIyKDFNY7ziS9mAmxmZ7gEo/w:880/mb:500000/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvZnc4/ZzczODg0OXZwYjNl/NTN5bzkuanBn"></code>
+
 
 A postgraduate student,Solutions Architect and life-long learner
 ### Hi there Im Ian Welcome to my GitHub 👋
