@@ -59,8 +59,7 @@ Here you wil find some of the projects I have been working on
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Bash    7 mins          ██████████████▓░░░░░░░░░░   59.10 % 
-C++     4 mins          █████████▓░░░░░░░░░░░░░░░   38.26 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
