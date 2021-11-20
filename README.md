@@ -59,7 +59,7 @@ Here you wil find some of the projects I have been working on
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+SQL   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
