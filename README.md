@@ -59,8 +59,6 @@ Here you wil find some of the projects I have been working on
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Total: 14 mins
-
 Python   13 mins         ████████████████████████░   96.52 % 
 ```
 <!--END_SECTION:waka-->
