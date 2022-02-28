@@ -58,9 +58,11 @@ Here you wil find some of the projects I have been working on
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+
 ```text
-Python   2 mins          █████████████████████████   100.00 % 
+Python   2 mins          █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![Ians GitHub stats](https://github-readme-stats.vercel.app/api?username=IJW2021&count_private=true&hide=stars&show_icons=true)
