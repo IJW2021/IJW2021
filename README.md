@@ -60,12 +60,12 @@ Here you wil find some of the projects I have been working on
 <!--START_SECTION:waka-->
 
 ```text
-Python           14 hrs 21 mins  ███████████████████████▓░   94.77 %
-Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-GitIgnore file   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-YAML             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Text             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-C++              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Python           15 hrs 33 mins  ██████████████████████▒░░   89.16 %
+YAML             57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Text             24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+GitIgnore file   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+C++              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
