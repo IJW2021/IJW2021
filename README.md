@@ -60,8 +60,8 @@ Here you wil find some of the projects I have been working on
 <!--START_SECTION:waka-->
 
 ```text
-Python   5 hrs 35 mins   ████████████████████████░   95.48 %
-C++      15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Python   4 hrs 57 mins   ███████████████████████▓░   94.94 %
+C++      15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
 Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
