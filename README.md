@@ -60,7 +60,8 @@ Here you wil find some of the projects I have been working on
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 33 mins    █████████████████████████   100.00 %
+Python   3 hrs 41 mins   ████████████████████████▓   99.21 %
+Text     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
