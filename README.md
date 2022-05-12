@@ -60,12 +60,12 @@ Here you wil find some of the projects I have been working on
 <!--START_SECTION:waka-->
 
 ```text
-Python             10 hrs 52 mins  ████████████████████████░   95.75 %
-Docker             23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Docker File        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Text               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-C++                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python             7 hrs 52 mins   ███████████████████████▓░   94.40 %
+Docker             12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+SQL                12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Text               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+C++                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
