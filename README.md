@@ -60,12 +60,12 @@ Here you wil find some of the projects I have been working on
 <!--START_SECTION:waka-->
 
 ```text
-Python             1 hr 20 mins    ████████████████░░░░░░░░░   64.57 %
-SQL                24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.43 %
-Text               17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-requirements.txt   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-C++                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-CSS                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python             3 hrs 7 mins    ██████████████████░░░░░░░   72.28 %
+SQL                47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
+Text               21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+requirements.txt   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+C++                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+CSS                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
