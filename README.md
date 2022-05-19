@@ -60,12 +60,12 @@ Here you wil find some of the projects I have been working on
 <!--START_SECTION:waka-->
 
 ```text
-Markdown           7 hrs 49 mins   ███████████▓░░░░░░░░░░░░░   47.11 %
-Python             7 hrs 9 mins    ██████████▓░░░░░░░░░░░░░░   43.09 %
-SQL                1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Text               27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Markdown           7 hrs 49 mins   ███████████▓░░░░░░░░░░░░░   46.82 %
+Python             7 hrs 23 mins   ███████████░░░░░░░░░░░░░░   44.26 %
+SQL                53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Text               28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 requirements.txt   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Log                1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Log                1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
