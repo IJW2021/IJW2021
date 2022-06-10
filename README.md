@@ -60,10 +60,7 @@ Here you wil find some of the projects I have been working on
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         53 mins         █████████████████████░░░░   83.49 %
-GitIgnore file   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-YAML             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-SQL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+SQL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
