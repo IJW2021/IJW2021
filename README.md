@@ -60,9 +60,7 @@ Here you wil find some of the projects I have been working on
 <!--START_SECTION:waka-->
 
 ```text
-YAML             9 mins          ██████████████████████▒░░   89.07 %
-Markdown         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-GitIgnore file   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
