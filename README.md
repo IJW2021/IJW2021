@@ -60,8 +60,12 @@ Here you wil find some of the projects I have been working on
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 15 mins    ████████████████████████▓   99.23 %
-SQL      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+HTML         4 hrs 59 mins   ██████████████░░░░░░░░░░░   56.63 %
+Python       3 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   43.16 %
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+SourceMap    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
