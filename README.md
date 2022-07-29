@@ -60,12 +60,12 @@ Here you wil find some of the projects I have been working on
 <!--START_SECTION:waka-->
 
 ```text
-Python           1 hr 58 mins    █████████████▒░░░░░░░░░░░   52.87 %
-HTML             1 hr 27 mins    █████████▓░░░░░░░░░░░░░░░   39.17 %
-Markdown         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-SQL              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-YAML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Python             7 hrs 37 mins   ██████████████▒░░░░░░░░░░   57.62 %
+HTML               3 hrs 38 mins   ███████░░░░░░░░░░░░░░░░░░   27.48 %
+Gettext Catalog    43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Docker             26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Locale             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Markdown           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
